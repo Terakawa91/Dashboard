@@ -1,0 +1,8 @@
+*.jpg
+*.stl
+*.log
+/packages
+DashBoard/obj/Debug/*
+DashBoard/obj/Release/*
+DashBoard/bin/Debug/*
+DashBoard/bin/Release/*
